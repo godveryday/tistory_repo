@@ -1,7 +1,12 @@
 import fs from "fs";
 import Parser from "rss-parser";
 
-const parser = new Parser();
+const parser = new Parser({
+  headers: {
+    "User-Agent": "Mozilla/5.0",
+    "Accept": "application/rss+xml, application/xml, text/xml"
+  }
+});
 
 (async () => {
   try {
@@ -21,7 +26,7 @@ const parser = new Parser();
     fs.writeFileSync("README.md", text);
     console.log("README 생성 완료");
   } catch (err) {
-    console.error(err);
+    console.error("에러:", err);
     process.exit(1);
   }
 })();
