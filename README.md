@@ -1,5 +1,6 @@
 # Latest Blog Posts
 
+- [[삼성 2025 하반기 오후 1번][Simulation][C++] AI 로봇청소기 - Good Every Day](https://godveryday.tistory.com/entry/%EC%82%BC%EC%84%B1-2025-%ED%95%98%EB%B0%98%EA%B8%B0-%EC%98%A4%ED%9B%84-1%EB%B2%88SimulationC-AI-%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0-Good-Every-Day)
 - [[BOJ 14503][Simulation][C++] 로봇 청소기- Good Every Day](https://godveryday.tistory.com/entry/BOJ-14503SimulationC-%ED%86%A0%EB%A7%88%ED%86%A0-Good-Every-Day)
 - [[BOJ 7569][BFS][C++] 토마토 - Good Every Day](https://godveryday.tistory.com/entry/BOJ-7569BFSC-%ED%86%A0%EB%A7%88%ED%86%A0-Good-Every-Day)
 - [[BOJ 1697][BFS][C++] 숨바꼭질 - Good Every Day](https://godveryday.tistory.com/entry/BOJ-1697BFSC-%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88-Good-Every-Day)
