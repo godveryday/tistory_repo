@@ -1,5 +1,6 @@
 # Latest Blog Posts
 
+- [[std::sort] sort를 활용한 vector 정렬 방법](https://godveryday.tistory.com/12)
 - [[삼성 2025 하반기 오후 1번][Simulation][C++] AI 로봇청소기 - Good Every Day](https://godveryday.tistory.com/11)
 - [[BOJ 14503][Simulation][C++] 로봇 청소기- Good Every Day](https://godveryday.tistory.com/10)
 - [[BOJ 7569][BFS][C++] 토마토 - Good Every Day](https://godveryday.tistory.com/9)
